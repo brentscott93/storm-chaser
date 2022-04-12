@@ -1,0 +1,13 @@
+name: storm-chaser
+title: storm-chaser
+username:
+account: debold-lab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6069723
+bundleId: 5789031
+url: https://debold-lab.shinyapps.io/storm-chaser/
+when: 1649735890.60628
+lastSyncTime: 1649735890.60631
+asMultiple: FALSE
+asStatic: FALSE
